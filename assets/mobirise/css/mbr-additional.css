@@ -1542,11 +1542,6 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cccccc !important;
 }
-.cid-s5Qo3R6ejK {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #0f7699;
@@ -1927,4 +1922,9 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #cccccc !important;
+}
+.cid-s5Qo3R6ejK {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
